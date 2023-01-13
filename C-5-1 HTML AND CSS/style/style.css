@@ -11,7 +11,7 @@ body {
     margin: 10px 0px;
 }
 
-.link-section>a {
+.link-section > a {
     margin-top: 10px;
     background-color: cornsilk;
     text-decoration: none;
@@ -40,19 +40,19 @@ body {
     border: 2px solid tomato;
 } */
 
-.image-section>.picture1 {
+.image-section > .picture1 {
     width: 500px;
     height: 500px;
     border: 10px solid gray;
 }
 
-.image-section>.picture2 {
+.image-section > .picture2 {
     width: 10%;
     height: 250px;
     border: 10px solid green;
 }
 
-.image-section>.picture3 {
+.image-section > .picture3 {
     width: 30rem;
     height: 500px;
     border: 10px solid tomato;
